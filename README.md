@@ -2,6 +2,9 @@
 
 Tackle the following Codewars challenges at a range of difficulty levels
 
+Copy your final solutions from the codewars challenge into the respective python files and make a pull request to submit your homework!
+
+
 
 ## 8 Kyu:
 ### Count of positives, sum of negatives
@@ -18,4 +21,3 @@ https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
 ### Is Prime
 https://www.codewars.com/kata/5262119038c0985a5b00029f 
 
-Copy your final solutions from the codewars challenge into the respective python files and make a pull request to submit your homework!
