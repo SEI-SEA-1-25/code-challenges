@@ -24,5 +24,9 @@ https://www.codewars.com/kata/5467e4d82edf8bbf40000155
 https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
 
 ### Is Prime
-https://www.codewars.com/kata/5262119038c0985a5b00029f 
+https://www.codewars.com/kata/5262119038c0985a5b00029f
 
+
+## BONUS
+Think your python chops are strong?
+Re-implement your python algorithms in JavaScript!
