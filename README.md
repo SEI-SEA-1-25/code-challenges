@@ -1,6 +1,6 @@
 # Code Challenges
 
-From the following codewars challenge links, choose three to complete and turn in as a deliverable!
+From the following codewars challenge links, choose **three** (or more!) to complete and turn in as a deliverable!
 
 They are at a variety of difficulty levels, the choice is yours!
 
