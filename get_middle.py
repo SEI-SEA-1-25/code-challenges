@@ -5,9 +5,12 @@
 
 word1 = "haberdashery" #da
 word2 = "coconut" #o
+word3 = "fives" #v
 
 def get_middle(s):
     #take length of s
+    #check to see if it is even or odd
+    #return arr s at middle index
     return s[(len(s)-1) // 2 : (len(s)+2) // 2]
     
 print(get_middle(word1))

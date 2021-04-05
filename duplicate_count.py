@@ -25,4 +25,4 @@ def duplicate_count(text):
     print()
     
 
-duplicate_count(String4)
+duplicate_count(String3)
