@@ -15,7 +15,7 @@ def count_positives_sum_negatives(arr):
             neg_num += nums_array.append(num)
             return nums_array
         elif num == False:
-            num = ""
+            num = []
 
     
 
