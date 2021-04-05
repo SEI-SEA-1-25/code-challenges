@@ -1,2 +1,3 @@
 def get_middle(s):
-    #your code here
+    if len(s) % 2 == 0:
+        return 
