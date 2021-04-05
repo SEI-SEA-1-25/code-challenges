@@ -1,19 +1,19 @@
 # Attempt 1
-# def count_positives_sum_negatives(arr):
-#     if not arr == None and len(arr) > 0:
-#         pos_count, neg_sum = [0, 0]
-#         neg_arr = []
+def count_positives_sum_negatives(arr):
+    if not arr == None and len(arr) > 0: # considered an edge case code
+        pos_count, neg_sum = [0, 0]
+        neg_arr = []
 
-#         for x in arr:
-#             if x > 0:
-#                 pos_count += 1
-#             elif x <= 0:
-#                 neg_arr.append(x)
-#                 neg_sum = sum(neg_arr)
-#     else:
-#         return ([])
+        for x in arr:
+            if x > 0:
+                pos_count += 1
+            elif x <= 0:
+                neg_arr.append(x)
+                neg_sum = sum(neg_arr)
+    else:
+        return ([])
 
-#     return [pos_count, neg_sum]
+    return [pos_count, neg_sum]
 
 
 # Attempt 2
