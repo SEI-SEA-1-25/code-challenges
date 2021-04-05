@@ -7,7 +7,7 @@ def descending_order(num):
     num_list = list(num_str)
     # sort the list
     num_list.sort()
-    # reverse the list
+    # reverse the list (using slicing operator)
     reversed = num_list[::-1]
     return reversed
     
