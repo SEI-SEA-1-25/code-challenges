@@ -1,4 +1,4 @@
-example = [1897201031]
+example = 1897201031
 
 def descending_order(num):
     # convert integers to a sting
@@ -6,9 +6,9 @@ def descending_order(num):
     # cast the string to a list
     num_list = list(num_str)
     # sort the list
-    sort_nums = num_list.sort()
+    num_list.sort()
     # reverse the list
-    result = sort_nums.revese()
-    return result
+    reversed = num_list[::-1]
+    return reversed
     
 print(descending_order(example))
